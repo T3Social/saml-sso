@@ -1,0 +1,17 @@
+{
+  "id": "saml-sso",
+  "name": "SAML - SSO",
+  "description": "Add SAML Service Provider (SSO) support using this module.",
+  "keywords": [
+    "saml",
+    "sso",
+    "login",
+    "saml sp"
+  ],
+  "version": "2.0.3",
+  "humhub": {
+    "minVersion": "1.8"
+  },
+  "homepage": "https://github.com/humhub/saml-sso-issues",
+  "screenshots": []
+}
